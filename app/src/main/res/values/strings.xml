@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChangeExternalAndInternalStorage</string>
+    <string name="registration">REGISTRATION</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="LogSaveFlash">Хранить логин во внешнем хранилище</string>
+</resources>
